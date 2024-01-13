@@ -1,0 +1,11 @@
+{
+  "interest_percentage": 10,
+  "m": 12,
+  "quantiles": 5,
+  "k": 5,
+  "elbow_iter": 10,
+  "silhouette_iter": 10,
+  "input_file": "",
+  "rrfm_file": "",
+  "date":  ""
+}
